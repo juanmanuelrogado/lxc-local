@@ -1,0 +1,1 @@
+Folder to be mounted as a volume for document library files.
