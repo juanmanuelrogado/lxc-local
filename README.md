@@ -63,7 +63,7 @@ docker run -itd --name lxc-lr-u45 --add-host lxc-es:172.17.0.2 --add-host lxc-db
 -------------
 
 ## UPGRADE
-To upgrade to the last update:
+To upgrade to the latest update:
 
 Note: Change paths and IPs accordingly, as stated on previous section
 ```
